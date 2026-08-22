@@ -89,8 +89,8 @@
             "hwid": ""
         },
         "58630b9f6eaf4363d804b25ff4020edcef5054b1747afbcc19da7c928fbfd8dc": {
-            "claimed": false,
-            "hwid": ""
+            "claimed": true,
+            "hwid": "MICAAAAAAAAAAAA"
         },
         "633f50b08d73a9007c7ddfe149fe3305559e5d05ed2ddbabda117e42ec39025a": {
             "claimed": true,
