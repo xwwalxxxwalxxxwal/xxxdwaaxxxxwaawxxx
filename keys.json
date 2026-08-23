@@ -1325,8 +1325,8 @@
             "hwid": ""
         },
         "a2abfcf7d920cd2caa8ff620098d4f630943aea31e7ee004f8d8c6d6119aa531": {
-            "claimed": false,
-            "hwid": ""
+            "claimed": true,
+            "hwid": "d3aaf20d-6364-4542-b941-194aa47f7116"
         },
         "a387bf379d163579aa65e86a99a433b9658e91ea082bcbd85b610e0dc339ac4d": {
             "claimed": false,
