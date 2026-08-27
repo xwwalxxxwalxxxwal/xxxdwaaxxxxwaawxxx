@@ -1825,8 +1825,8 @@
             "hwid": ""
         },
         "e79dce1092b27303d054cd388bcca192cd4ec994ab0079fa7f61ab979d0a833b": {
-            "claimed": false,
-            "hwid": ""
+            "claimed": true,
+            "hwid": "408aca49-5100-4ed2-b3a8-b222142d0947"
         },
         "e7d15cda3e7e059d6d68aa0c884dd0a40053776fed838500f3b32e90b457d2c9": {
             "claimed": false,
