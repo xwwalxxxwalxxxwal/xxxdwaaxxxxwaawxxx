@@ -1153,8 +1153,8 @@
             "hwid": ""
         },
         "8dd54f36ab6f6177a86228548690515a01041fd794a622ed9ea653b5ae70b911": {
-            "claimed": false,
-            "hwid": ""
+            "claimed": true,
+            "hwid": "44aa0486-2ab0-42ac-94a8-591bb8466bf3"
         },
         "8e001cff688dd36a02f8cc89bf4387ee80472201eddea771c30ce26915c812bf": {
             "claimed": false,
